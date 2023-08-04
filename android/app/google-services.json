@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "596821538204",
+    "project_id": "awesome-messaging-5257d",
+    "storage_bucket": "awesome-messaging-5257d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596821538204:android:2e47d9872382bf7cfd0459",
+        "android_client_info": {
+          "package_name": "com.awesome.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596821538204-ngd4rc1fktqht2tbf7o4a8e78prd3tv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkWzMwZrRDlfXx9trZbk2_AvElhEVzCBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596821538204-ngd4rc1fktqht2tbf7o4a8e78prd3tv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596821538204:android:6f28aec95b0707c3fd0459",
+        "android_client_info": {
+          "package_name": "com.example.awesome_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596821538204-ngd4rc1fktqht2tbf7o4a8e78prd3tv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkWzMwZrRDlfXx9trZbk2_AvElhEVzCBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596821538204-ngd4rc1fktqht2tbf7o4a8e78prd3tv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
